@@ -20,7 +20,7 @@ I build structured, reproducible systems from messy business problems: data pipe
 **Core:** Python · SQL · Git · Docker  
 **Data:** BigQuery · DuckDB · Bruin · Looker Studio  
 **AI/ML:** Azure ML · MLflow · BigQuery ML · LLM workflows  
-**Backend/Automation:** FastAPI · Redis · RQ · YAML
+**Backend/Automation:** FastAPI · Redis · YAML
 
 ---
 
