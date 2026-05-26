@@ -27,7 +27,7 @@ I build structured, reproducible systems from messy business problems: data pipe
 ## 📌 Featured projects
 
 **FitCV** — AI-assisted job matching and CV generation workflow  
-`Python · FastAPI · Redis · RQ · YAML · LLM workflows`  
+`Python · FastAPI · YAML · LLM workflows`  
 Structured screening, ranking, validation, and traceable CV-generation artifacts.  
 [View project](https://github.com/longdang193/fitcv-public)
 
