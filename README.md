@@ -1,68 +1,53 @@
-# Hi, I'm Long 👋
+# Long Dang
 
-I'm an M.Sc. **Operations Research and Business Analytics** student in Germany, building projects at intersection of **data analytics, AI workflows, cloud ML, and business decision support**.
+## Analytics, AI workflows, and operations research for better business decisions
 
-I build structured, reproducible systems from messy business problems: data pipelines, dashboards, ML workflows, automation tools, and project templates.
+M.Sc. **Operations Research and Business Analytics** student in Germany. I build structured, reproducible systems from messy business problems: data pipelines, dashboards, ML workflows, automation tools, and project templates.
 
----
+My work connects **data analytics, analytics engineering, AI workflows, cloud ML, and business decision support**.
 
-## 🚀 What I'm focused on
+## What I work on
 
-- Analytics engineering with **SQL, Python, BigQuery, and BI tools**
-- AI-assisted workflow automation using **LLMs, FastAPI, Redis, RQ, and YAML**
+- Analytics engineering with **SQL, Python, BigQuery, DuckDB, Bruin, and Looker Studio**
+- AI-assisted workflow automation with **LLM workflows, FastAPI, and YAML**
 - Applied **operations research, optimization, simulation, and decision support**
-- Turning business, product, and customer data into practical recommendations
+- Product, customer, sales, and competitor analysis for practical recommendations
 
----
+## Selected projects
 
-## 🛠️ Tech stack
+### [FitCV](https://github.com/longdang193/fitcv-public)
 
-**Core:** Python · SQL · Git · Docker  
-**Data:** BigQuery · DuckDB · Bruin · Looker Studio  
-**AI/ML:** Azure ML · MLflow · BigQuery ML · LLM workflows  
-**Backend/Automation:** FastAPI · Redis · YAML
+**Evidence-first job matching and CV generation workflow**
 
----
+FitCV systematically turns noisy job posts into a reviewable shortlist, then generates CV outputs only when upstream evidence says “ready” — keeping application decisions evidence-based and inspectable.
 
-## 📌 Featured projects
+`Python` `FastAPI` `YAML` `LLM workflows`
 
-**FitCV** — AI-assisted job matching and CV generation workflow  
-`Python · FastAPI · YAML · LLM workflows`  
-Structured screening, ranking, validation, and traceable CV-generation artifacts.  
-[View project](https://github.com/longdang193/fitcv-public)
+### [Ecommerce Analytics Bruin](https://github.com/longdang193/ecommerce-analytics-bruin-public)
 
-**Ecommerce Analytics Bruin** — Analytics engineering for e-commerce data  
-`SQL · Python · BigQuery · Bruin · BigQuery ML · DuckDB · Looker Studio`  
-Transforms raw events into BI-ready KPI layers, ML assets, and reporting datasets.  
-[View project](https://github.com/longdang193/ecommerce-analytics-bruin-public)
+**Analytics engineering for e-commerce data**
 
-**Customer Churn Prediction on Azure ML** — Cloud ML lifecycle project  
-`Python · Azure ML · MLflow · Docker`  
-End-to-end churn workflow covering validation, training, promotion, deployment, and monitoring.  
-[View project](https://github.com/longdang193/customer-churn-prediction-azureml-public)
+Transforms raw e-commerce events into BI-ready KPI layers, ML assets, and reporting datasets.
 
----
+`SQL` `Python` `BigQuery` `Bruin` `BigQuery ML` `Looker Studio`
 
-## 🎓 Background
+### [Customer Churn Prediction on Azure ML](https://github.com/longdang193/customer-churn-prediction-azureml-public)
+
+**Cloud ML lifecycle project**
+
+Covers validation, training, promotion, deployment, and monitoring in an end-to-end churn workflow.
+
+`Python` `Azure ML` `MLflow` `Docker`
+
+## Background
 
 Currently studying **Operations Research and Business Analytics** at **Otto von Guericke University Magdeburg**.
 
-Previously worked in product development and brand analytics, where I analyzed sales data, customer insights, competitor benchmarks, and distributor feedback to support product and launch decisions.
+Previously worked in product development and brand analytics, analyzing sales data, customer insights, competitor benchmarks, and distributor feedback to support product and launch decisions.
 
-That business background shapes how I build technical projects: I care about clarity, usability, decision impact, and reproducibility.
+That background shapes how I build technical projects: clarity, usability, decision impact, and reproducibility matter.
 
----
-
-## 🌱 Currently learning
-
-- Advanced analytics engineering patterns
-- Cloud-native ML workflows
-- Optimization and simulation for logistics and production
-- Practical LLM automation for business workflows
-
----
-
-## 🤝 Open to
+## Open to roles
 
 Working student roles, internships, and junior opportunities in:
 
@@ -72,10 +57,10 @@ Working student roles, internships, and junior opportunities in:
 - Solution Consulting
 - Supply Chain / Operations Analytics
 
----
+If you need someone who can connect business context with analytics, ML workflows, and usable automation, [connect on LinkedIn](https://www.linkedin.com/in/longdhp/) or [send email](mailto:longdanghoangphi@gmail.com).
 
-## 📫 Connect
+## Links
 
-- LinkedIn: [linkedin.com/in/longdhp](https://www.linkedin.com/in/longdhp/)
-- GitHub: [github.com/longdang193](https://github.com/longdang193)
-- Email: [longdanghoangphi@gmail.com](mailto:longdanghoangphi@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/longdhp/)
+- [GitHub](https://github.com/longdang193)
+- [Email](mailto:longdanghoangphi@gmail.com)
