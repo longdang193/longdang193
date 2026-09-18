@@ -15,13 +15,17 @@ My work connects **data analytics, analytics engineering, AI workflows, cloud ML
 
 ## Selected projects
 
-### [FitCV](https://github.com/longdang193/fitcv-public)
+### [FitCV](https://github.com/longdang193/fitcv)
 
-**Evidence-first job matching and CV generation workflow**
+**Evidence-gated job matching and grounded CV workflow**
 
-FitCV systematically turns noisy job posts into a reviewable shortlist, then generates CV outputs only when upstream evidence says “ready” — keeping application decisions evidence-based and inspectable.
+FitCV turns noisy job postings from uploads, Apify exports, and verified careers
+portals into an inspectable shortlist, then generates tailored CVs only when
+candidate evidence supports them.
 
-`Python` `FastAPI` `YAML` `LLM workflows`
+`Python` `FastAPI` `SQLite` `LLM workflows`
+
+[Technical Preview v0.1.0-preview.1](https://github.com/longdang193/fitcv/releases/tag/v0.1.0-preview.1)
 
 ### [Project OS Starter](https://github.com/longdang193/project-OS-starter)
 
