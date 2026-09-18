@@ -23,6 +23,16 @@ FitCV systematically turns noisy job posts into a reviewable shortlist, then gen
 
 `Python` `FastAPI` `YAML` `LLM workflows`
 
+### [Project OS Starter](https://github.com/longdang193/project-OS-starter)
+
+**Governed starter kit for AI-assisted software development**
+
+An open-source starter kit for coordinating coding-agent work with clear ownership,
+bounded scope, Git-tracked plans, evidence-based acceptance, and explicit recovery
+when work is incomplete or blocked.
+
+[Architecture overview](https://github.com/longdang193/project-OS-starter/blob/main/docs/architecture.md)
+
 ### [Ecommerce Analytics Bruin](https://github.com/longdang193/ecommerce-analytics-bruin-public)
 
 **Analytics engineering for e-commerce data**
