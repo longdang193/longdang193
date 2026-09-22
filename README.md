@@ -10,6 +10,7 @@ My work connects **data analytics, analytics engineering, AI workflows, cloud ML
 
 - Analytics engineering with **SQL, Python, BigQuery, DuckDB, Bruin, and Looker Studio**
 - AI-assisted workflow automation with **LLM workflows, FastAPI, and YAML**
+- Reliable runtime infrastructure for **long-running coding agents and AI-assisted development**
 - Applied **operations research, optimization, simulation, and decision support**
 - Product, customer, sales, and competitor analysis for practical recommendations
 
@@ -36,6 +37,21 @@ bounded scope, Git-tracked plans, evidence-based acceptance, and explicit recove
 when work is incomplete or blocked.
 
 [Architecture overview](https://github.com/longdang193/project-OS-starter/blob/main/docs/architecture.md)
+
+### [LightRSI](https://github.com/longdang193/LightRSI)
+
+**Context management runtime for long-running coding agents**
+
+An independent fork of [LightRSI](https://github.com/zjunlp/LightRSI), an
+open-source runtime for managing the conversation and tool history used by
+coding agents. The fork changes context cleanup from broad task-level deletion
+into precise, agent-directed release of obsolete messages and tool outputs.
+
+It also adds restart-safe history recovery, provider-compatible forwarding,
+Windows runtime hardening, cache diagnostics, and reproducible tests and
+benchmarks.
+
+`TypeScript` `Node.js` `Codex CLI` `Runtime recovery` `Benchmarking`
 
 ### [Ecommerce Analytics Bruin](https://github.com/longdang193/ecommerce-analytics-bruin-public)
 
